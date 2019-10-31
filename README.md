@@ -3,6 +3,8 @@
 Two arduino code files that control 3pin LED strips
 Used for the course Wearable technology taken at Nanyang Tech University
 
-Rainfall: Emulates rainfall, 5 fast moving blue LEDs
+Edit varialbe LEDStrip for length of LED strip
 
-Snowfall: Emulates snowfall, 2 slow moving white LEDs
+Rainfall: Emulates rainfall, 8 fast moving blue raindrops
+
+Snowfall: Emulates snowfall, 3 slow moving white snowflakes
