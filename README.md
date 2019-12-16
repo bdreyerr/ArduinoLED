@@ -8,3 +8,6 @@ Edit varialbe LEDCount for length of LED strip
 Rainfall: Emulates rainfall, 8 fast moving blue raindrops
 
 Snowfall: Emulates snowfall, 3 slow moving white snowflakes
+
+
+OPEN FASHION SHOW.MP4 FOR VIDEO OF EFFECTS
